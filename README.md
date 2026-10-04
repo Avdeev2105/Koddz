@@ -5,7 +5,8 @@
 Количество покупаемого молока осталось прежним.
 
 Блок-схема:
-https://github.com/Avdeev2105/Koddz/blob/master/Koddz/lr2.drawio.png?raw=true
+<img width="164" height="612" alt="image" src="https://github.com/user-attachments/assets/f2f96d89-00ac-4533-b397-98759a21c41c" />
+
 
 
 Алгоритм решения
